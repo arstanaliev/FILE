@@ -1,0 +1,56 @@
+.div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.add {
+  background-color: rgb(2, 119, 161);
+  width: 300px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 20px;
+  margin-left: 200px;
+}
+.list {
+  background-color: rgb(0, 85, 150);
+  width: 500px;
+  height: 400px;
+  border-radius: 20px;
+  margin-right: 300px;
+}
+.div2 {
+  display: flex;
+  justify-content: space-around;
+}
+.name{
+  width: 80%;
+  height: 7%;
+  border-radius: 10px;
+}
+.lastName{
+  width: 80%;
+  height: 7%;
+  border-radius: 10px;
+}
+.age{
+  width: 80%;
+  height: 7%;
+  border-radius: 10px;
+}
+.save{
+  width: 40%;
+  height: 8%;
+  border-radius: 10px ;
+  background: rgb(70, 147, 2);
+}
+.button{
+  border-radius: 20px;
+}
+.btn{
+  border-radius: 10px;
+  background: rgb(255, 6, 6);
+  height: 60px;
+}
